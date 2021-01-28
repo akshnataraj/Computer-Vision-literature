@@ -12,5 +12,6 @@ Everything related to Computer Vision
 * https://github.com/topics/real-time-semantic-segmentation
 
 ## Video lectures:
-* http://www.klewel.com/conferences/epfl-computer-vision/
-* https://www.crcv.ucf.edu/courses/cap5415-fall-2012/
+* EPFL: http://www.klewel.com/conferences/epfl-computer-vision/
+* UCF: https://www.crcv.ucf.edu/courses/cap5415-fall-2012/
+* Udacity: https://www.youtube.com/playlist?list=PLAwxTw4SYaPnbDacyrK_kB_RUkuxQBlCm
