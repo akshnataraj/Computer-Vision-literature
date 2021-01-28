@@ -10,3 +10,7 @@ Everything related to Computer Vision
 ### Real time segmentation:
 * https://github.com/xiaoyufenfei/Efficient-Segmentation-Networks
 * https://github.com/topics/real-time-semantic-segmentation
+
+## Video lectures:
+* http://www.klewel.com/conferences/epfl-computer-vision/
+* https://www.crcv.ucf.edu/courses/cap5415-fall-2012/
