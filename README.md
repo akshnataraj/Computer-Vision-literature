@@ -23,3 +23,6 @@ Everything related to Computer Vision
 
 ## Medium / Articles:
 * https://towardsdatascience.com/active-learning-5b9d0955292d
+
+## Implementation Links:
+* Active Learning - https://modal-python.readthedocs.io/en/latest/content/examples/Keras_integration.html
