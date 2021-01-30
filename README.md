@@ -22,7 +22,8 @@ Everything related to Computer Vision
 * Udacity: https://www.youtube.com/playlist?list=PLAwxTw4SYaPnbDacyrK_kB_RUkuxQBlCm
 
 ## Medium / Articles:
-* https://towardsdatascience.com/active-learning-5b9d0955292d
+* Active Learning - https://towardsdatascience.com/active-learning-5b9d0955292d
+* Facial landmarking - https://medium.com/datadriveninvestor/facial-landmark-detection-in-real-time-using-opencv-dlib-adbba9255329
 
 ## Implementation Links:
 * Active Learning - https://modal-python.readthedocs.io/en/latest/content/examples/Keras_integration.html
