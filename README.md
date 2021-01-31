@@ -6,6 +6,8 @@ Everything related to Computer Vision
 
 * Semantic Understanding of Scenes through ADE20K Dataset.  https://arxiv.org/pdf/1608.05442.pdf
 * Papers with Code: https://paperswithcode.com/task/real-time-semantic-segmentation/latest
+* Consistent video depth estimation - https://arxiv.org/abs/2004.15021
+* Robust Consistent Video Depth Estimation - https://arxiv.org/abs/2012.05901
 
 ## GitHub links:
 
