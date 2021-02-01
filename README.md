@@ -29,3 +29,4 @@ Everything related to Computer Vision
 
 ## Implementation Links:
 * Active Learning - https://modal-python.readthedocs.io/en/latest/content/examples/Keras_integration.html
+http://mccormickml.com/2013/12/13/adaboost-tutorial/
