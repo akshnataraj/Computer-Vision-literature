@@ -8,7 +8,7 @@ Everything related to Computer Vision
 * Papers with Code: https://paperswithcode.com/task/real-time-semantic-segmentation/latest
 * Consistent video depth estimation - https://arxiv.org/abs/2004.15021
 * Robust Consistent Video Depth Estimation - https://arxiv.org/abs/2012.05901
-* http://ai.stanford.edu/~koller/Papers/Liu%2Bal%3ACVPR10.pdf
+* Single Image Depth Estimation From Predicted Semantic Labels - http://ai.stanford.edu/~koller/Papers/Liu%2Bal%3ACVPR10.pdf
 
 ## GitHub links:
 
