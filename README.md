@@ -4,6 +4,7 @@ Everything related to Computer Vision
 
 ## Papers:
 
+* The Science of Vision: An Introduction - https://mind.ilstu.edu/curriculum/vision_science_intro/vision_science_intro.html
 * Semantic Understanding of Scenes through ADE20K Dataset.  https://arxiv.org/pdf/1608.05442.pdf
 * Papers with Code: https://paperswithcode.com/task/real-time-semantic-segmentation/latest
 * Consistent video depth estimation - https://arxiv.org/abs/2004.15021
