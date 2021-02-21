@@ -11,6 +11,8 @@ Everything related to Computer Vision
 * Robust Consistent Video Depth Estimation - https://arxiv.org/abs/2012.05901
 * Single Image Depth Estimation From Predicted Semantic Labels - http://ai.stanford.edu/~koller/Papers/Liu%2Bal%3ACVPR10.pdf
 
+* Review paper on depth estimation methods A taxonomy and evaluation of dense two-frame stereo correspondence algorithms.
+
 ## GitHub links:
 
 ### Real time segmentation:
