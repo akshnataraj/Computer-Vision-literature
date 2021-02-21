@@ -13,6 +13,11 @@ Everything related to Computer Vision
 
 * Review paper on depth estimation methods A taxonomy and evaluation of dense two-frame stereo correspondence algorithms.
 
+* Unsupervised learning in images (relevant for thesis):
+  * Unsupervised cnn for single view depth estimation: Geometry to the rescue
+  * Unsupervised learning of depth and ego-motion from video.
+  * Unsupervised monocular depth estimation with left-right consistency.
+
 ## GitHub links:
 
 ### Real time segmentation:
