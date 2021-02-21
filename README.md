@@ -27,6 +27,7 @@ Everything related to Computer Vision
 ## Medium / Articles:
 * Active Learning - https://towardsdatascience.com/active-learning-5b9d0955292d
 * Facial landmarking - https://medium.com/datadriveninvestor/facial-landmark-detection-in-real-time-using-opencv-dlib-adbba9255329
+* Depth Estimation - https://towardsdatascience.com/depth-estimation-1-basics-and-intuition-86f2c9538cd1
 
 ## Implementation Links:
 * Active Learning - https://modal-python.readthedocs.io/en/latest/content/examples/Keras_integration.html
