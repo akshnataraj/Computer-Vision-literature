@@ -42,7 +42,8 @@ Everything related to Computer Vision
 * Active Learning - https://modal-python.readthedocs.io/en/latest/content/examples/Keras_integration.html
 
 # Different CV-DL methods to be explored:
-1) Mask CNN
-2) Mask R-CNN
-3) Retina NET
+1) Mask R-CNN - https://arxiv.org/abs/1703.06870
+2) Retina NET
+3) Fast R-CNN - https://arxiv.org/abs/1504.08083
+4) Faster R-CNN - https://arxiv.org/abs/1506.01497
 
