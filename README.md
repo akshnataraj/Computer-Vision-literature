@@ -43,7 +43,6 @@ Everything related to Computer Vision
 
 # Different CV-DL methods to be explored:
 1) Mask R-CNN - https://arxiv.org/abs/1703.06870
-2) Retina NET
 3) Fast R-CNN - https://arxiv.org/abs/1504.08083
 4) Faster R-CNN - https://arxiv.org/abs/1506.01497
 
