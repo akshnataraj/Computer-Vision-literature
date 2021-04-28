@@ -45,4 +45,5 @@ Everything related to Computer Vision
 1) Mask R-CNN - https://arxiv.org/abs/1703.06870
 3) Fast R-CNN - https://arxiv.org/abs/1504.08083
 4) Faster R-CNN - https://arxiv.org/abs/1506.01497
+5) Image Segmentation Using Deep Learning: A Survey - https://arxiv.org/abs/2001.05566
 
